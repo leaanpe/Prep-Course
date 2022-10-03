@@ -1,0 +1,8 @@
+cd - mover entre carpetas
+cd ..- ir para atras
+ls- carpetas que hay
+git status - tedice como esta todo
+git add . - agregaslos cambios (pero sin guardarlos)
+git commit -m "mensaje"
+git push
+git pull
